@@ -706,6 +706,10 @@ figure.effect-ruby:hover img {
 	.float-Whats{
 		bottom: 60px;
 	}
+
+	#copy{
+		font-size: 14px;
+	}
 	/* inicio gorro de natal */
     /*
 	img.img-gorro-natal {
