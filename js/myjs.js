@@ -13,9 +13,9 @@ function checkDevice() {
     ){
     // return true; // está utilizando celular
     } else {
-        /*manda mansagem sem emoji */
+        /*manda mensagem sem emoji */
         const selecionaElemento = document.querySelector('#send-message');
-        selecionaElemento.href= "https://wa.me/5514997746346?text=Olá,%20seja%20muito%20bem%20vindo(a)%20ao%20mundo%20@Drika´s%20personalizados.%20Aqui%20cada%20peça%20é%20um%20sonho%20moldado%20especialmente%20para%20você...%20Diga-me%20como%20posso%20lhe%20ajudar%20?";
+        selecionaElemento.href= "https://wa.me/5514997746346?text=Olá,%20seja%20muito%20bem%20vindo(a)%20ao%20mundo%20@detalhesdadrii.%20Aqui%20cada%20peça%20é%20um%20sonho%20moldado%20especialmente%20para%20você...%20Diga-me%20como%20posso%20lhe%20ajudar%20?";
     }
 }
 /*pegando ano e tag titulo para setar no footer */
