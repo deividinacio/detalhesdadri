@@ -14,7 +14,16 @@ body {
 	overflow-x: hidden;
 }
 
-.tm-white { color: #700E37; } /* cor do texto cabeçalho */
+.tm-white { /* cor do texto cabeçalho */
+	color: #700E37; 
+} 
+
+span.tm-white{
+	background-color: rgba(112, 14, 55, 0.1);
+}
+
+
+
 
 ul { padding: 0; margin: 0; }
 figure { margin: 0; }
@@ -168,7 +177,6 @@ button:focus { outline: none; }
 
 .tm-text{
 	text-align: center;
-
 }
 
 h1.preco{
@@ -499,6 +507,7 @@ textarea { height: 168px; }
 	
 }
 
+
 .grid-item:last-child { margin-bottom: 0; }
 
 .tm-img-gallery-container {
@@ -764,6 +773,11 @@ figure.effect-ruby:hover img {
 	.navbar-brand {
 		margin-left: 12px;
 	}
+
+	span.tm-white{
+		font-size: 14px;
+	}
+	
 	
 
 	.tm-footer { padding: 10px 11px 20px; }
@@ -840,9 +854,12 @@ figure.effect-ruby:hover img {
 		margin-left: 12px;
 	}
 	
-
-
 	.tm-footer { padding: 10px 11px 20px; }
+
+	span.tm-white{
+		font-size: 14px;
+	}
+	
 
 
 	/* inicio  gorro de natal */
