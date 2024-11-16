@@ -203,6 +203,9 @@ h1.preco{
     font-weight: 400;
 	text-align: center;
 }
+
+
+
 /* whats float*/
 
 .float-Whats img{
@@ -607,7 +610,7 @@ textarea { height: 168px; }
     position: relative;
     overflow: hidden;
     text-align: center;
-	box-shadow: 0 16px 16px 0 rgba(5, 5, 5, 0.7);
+	box-shadow: 0 8px 16px 0 rgba(5, 5, 5, 0.7);
 	
 }
 
@@ -721,7 +724,7 @@ figure.effect-ruby:hover img {
 	}
 	h1.preco{
 		
-		font-size: 19px;
+		font-size: 15px;
 		font-weight: 700;
 	}
 	
@@ -757,6 +760,11 @@ figure.effect-ruby:hover img {
 		margin-top: -10px;
 	
 	}
+
+	.navbar-brand {
+		margin-left: 12px;
+	}
+	
 
 	.tm-footer { padding: 10px 11px 20px; }
 
@@ -827,6 +835,12 @@ figure.effect-ruby:hover img {
 		margin-top: -10px;
 	
 	}
+	
+	.navbar-brand {
+		margin-left: 12px;
+	}
+	
+
 
 	.tm-footer { padding: 10px 11px 20px; }
 
@@ -896,7 +910,7 @@ figure.effect-ruby:hover img {
 		font-size: 10px;
 		
 	}
-
+	
 
 	@media only screen and (min-width: 482px) and (max-width: 693px)
 	{
